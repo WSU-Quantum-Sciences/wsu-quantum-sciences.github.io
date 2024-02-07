@@ -1,3 +1,9 @@
+---
+layout: page
+title: Club
+permalink: /club
+---
+
 # WSU Quantum Sciences Club
 
 ## General Information

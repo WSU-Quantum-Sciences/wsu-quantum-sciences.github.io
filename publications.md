@@ -1,3 +1,0 @@
-# Publications
-
-Unreleased research in progress, shh....
