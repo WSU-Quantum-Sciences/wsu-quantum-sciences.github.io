@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Wright State University Quantum Sciences"
 description:	       "An organization for exploring all things quantum"
-author:              "Alex Groeger"
+author:              "managed by Alex Groeger"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
