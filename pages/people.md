@@ -5,8 +5,6 @@ category: people
 permalink: /people
 ---
 
-## People
-
 ### Faculty
 * [Nella Ludlow](https://www.linkedin.com/in/nellaludlow/) (Director) <br />
 
