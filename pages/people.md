@@ -20,7 +20,7 @@ permalink: /people
 </div>
 <div>
     <a href="https://www.linkedin.com/in/nino-mirtskhulava-gali/">Nino Mirtskhulava</a> <br />
-    <t>Ph.D. Student in Quantum Visualization</t> <br />
+    <t>M.S. Student in Quantum Visualization</t> <br />
     <img src="./assets/img/people/nino-mitskhulava.jpg" align="left" alt="A headshot photo of Nino Mirtskhulava" width="128"/>
 </div>
 
