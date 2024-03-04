@@ -22,7 +22,7 @@ permalink: /people
         <div style="width: 33%; display: table-cell;">
             <a href="https://www.linkedin.com/in/andrew-young-a590b9161/">Andrew Young</a> <br />
             <t>Ph.D. Student in Quantum Machine Learning</t> <br />
-            <img src="./assets/img/people/andrew-young.jpg" align="left" alt="A headshot photo of Andrew Young" width="128"/>
+            <img src="./assets/img/people/andrew-young.png" align="left" alt="A headshot photo of Andrew Young" width="128"/>
         </div>
         <div style="width: 33%; display: table-cell;">
             <a href="https://www.linkedin.com/in/nino-mirtskhulava-gali/">Nino Mirtskhulava</a> <br />
