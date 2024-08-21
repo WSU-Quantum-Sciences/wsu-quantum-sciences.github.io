@@ -14,6 +14,7 @@ We are interested in room-temperature quantum devices and how qubit topology aff
 
 ## Resources
 A series of Jupyter notebooks on Qiskit [here](https://github.com/BrianOtieno/quantum-computing).<br>
-A collection of all quantum error correction techniques [here](https://errorcorrectionzoo.org/domain/quantum_domain).
+A collection of all quantum error correction techniques [here](https://errorcorrectionzoo.org/domain/quantum_domain).<br>
+Youtube series on Quantum Information Science [here](https://www.youtube.com/@ArturEkert/videos).
 
 ## Publications
