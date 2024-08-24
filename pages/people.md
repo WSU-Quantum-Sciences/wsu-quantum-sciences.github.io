@@ -14,20 +14,20 @@ permalink: /people
 ### Graduate Students
 <div style="width: 100%; display: table;">
     <div style="display: table-row">
-        <div style="width: 33%; display: table-cell;">
+        <div style="width: 33:vw; display: table-cell;">
             <a href="https://www.linkedin.com/in/alexander-h-groeger/">Alex Groeger</a> <br />
             <t>Ph.D. Student in Quantum Error Correction</t> <br />
-            <img src="./assets/img/people/alex-groeger.jpg" align="left" alt="A headshot photo of Alex Groeger" width="128"/>
+            <img src="./assets/img/people/alex-groeger.jpg" align="left" alt="A headshot photo of Alex Groeger" width="100%"/>
         </div>
-        <div style="width: 33%; display: table-cell;">
+        <div style="width: 33:vw; display: table-cell;">
             <a href="https://www.linkedin.com/in/andrew-young-a590b9161/">Andrew Young</a> <br />
             <t>Ph.D. Student in Quantum Machine Learning</t> <br />
-            <img src="./assets/img/people/andrew-young.png" align="left" alt="A headshot photo of Andrew Young" width="128"/>
+            <img src="./assets/img/people/andrew-young.png" align="left" alt="A headshot photo of Andrew Young" width="100%"/>
         </div>
-        <div style="width: 33%; display: table-cell;">
+        <div style="width: 33:vw; display: table-cell;">
             <a href="https://www.linkedin.com/in/nino-mirtskhulava-gali/">Nino Mirtskhulava</a> <br />
             <t>M.S. Student in Quantum Visualization</t> <br />
-            <img src="./assets/img/people/nino-mirtskhulava.jpg" align="left" alt="A headshot photo of Nino Mirtskhulava" width="128"/>
+            <img src="./assets/img/people/nino-mirtskhulava.jpg" align="left" alt="A headshot photo of Nino Mirtskhulava" width="100%"/>
         </div>
     </div>
 </div>
