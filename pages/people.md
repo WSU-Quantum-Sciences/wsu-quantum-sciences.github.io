@@ -29,5 +29,8 @@ permalink: /people
         <img src="./assets/img/people/nino-mirtskhulava.jpg" align="left" alt="A headshot photo of Nino Mirtskhulava" width="100%"/>
     </div>
 </div>
+
 ### Undergraduate Students
-Looking for students interested in leading club meetings
+<div>
+    <t>Looking for students interested in leading club meetings</t>
+</div>
