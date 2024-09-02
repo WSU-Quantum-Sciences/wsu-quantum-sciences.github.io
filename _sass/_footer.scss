@@ -16,7 +16,7 @@
     background: white;
     color: $brand-color;
     text-align: center;
-    min-height: 56px;
+    min-height: $header-thickness;
     line-height: 45px;
     width: 95vw;
   }
