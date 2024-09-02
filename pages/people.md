@@ -5,10 +5,12 @@ permalink: /people
 ---
 
 ### Faculty
-<div style="width: 33%; display: table-cell;">
-    <a href="https://www.linkedin.com/in/nellaludlow/">Nella Ludlow</a> <br />
-    <t>Director of Quantum Computing</t> <br />
-    <img src="./assets/img/people/nella-ludlow.jpg" align="left" alt="A headshot photo of Nella Ludlow" width="100%"/>
+<div class="grid-container" style="width: 33%; display: table-cell;">
+    <div class="grid-item" style="min-width: 120px; max-width: 200px">
+        <a href="https://www.linkedin.com/in/nellaludlow/">Nella Ludlow</a> <br />
+        <t>Director of Quantum Computing</t> <br />
+        <img src="./assets/img/people/nella-ludlow.jpg" align="left" alt="A headshot photo of Nella Ludlow" width="100%"/>
+    </div>
 </div>
 
 ### Graduate Students
