@@ -11,15 +11,28 @@
     {% endfor %}
   </nav>
   <div class="dropdown" id="MobileHeader">
-    <button class="dropbtn" onclick="openMenu()"><i class="fa fa-bars" aria-hidden="true"></i></button>
+    <a href="javascript:void(0);" class="icon" onclick="openMenu()" 
+      style="color: white;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      display: block;  background: black;
+      display: block;
+      position: absolute;
+      right: 0;
+      top: 0;"
+    >
+      <i class="fa fa-bars"></i>
+    </a>
     <div class="dropdown-content" id="links" style="display: none">
       {% for item in site.data.settings.menu %}
-        <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+        <a href="{{ site.github.url }}/{{ item.url }}" style="padding: 14px 16px; text-decoration: none; font-size: 17px; display: block;">{{ item.name }}</a>
       {% endfor %}
       {% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
       {% endfor %}
     </div>
+    </a>
   </div>
   <script type="text/javascript">
     if(window.innerWidth < 900)
