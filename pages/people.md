@@ -12,7 +12,7 @@ permalink: /people
 </div>
 
 ### Graduate Students
-<div class="grid-container" style="width: 100%;">
+<div class="grid-container" style="width: 33%; display: table-cell;">
     <div class="grid-item" style="min-width: 120px; max-width: 200px">
         <a href="https://www.linkedin.com/in/alexander-h-groeger/">Alex Groeger</a> <br />
         <t>Ph.D. Student in Quantum Error Correction</t> <br />
