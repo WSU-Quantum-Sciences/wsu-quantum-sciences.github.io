@@ -2,18 +2,6 @@
   <h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>
-  <script type="text/javascript">
-    if(window.innerWidth < 900)
-    {
-      document.getElementById("DesktopHeader").style.display = "none"
-      document.getElementById("MobileHeader").style.display = "block"
-    }
-    else
-    {
-      document.getElementById("DesktopHeader").style.display = "block"
-      document.getElementById("MobileHeader").style.display = "none"
-    }
-  </script>
   <nav class="menu-list" id="DesktopHeader">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
@@ -33,4 +21,16 @@
       {% endfor %}
     </div>
   </div>
+  <script type="text/javascript">
+    if(window.innerWidth < 900)
+    {
+      document.getElementById("DesktopHeader").style.display = "none"
+      document.getElementById("MobileHeader").style.display = "block"
+    }
+    else
+    {
+      document.getElementById("DesktopHeader").style.display = "block"
+      document.getElementById("MobileHeader").style.display = "none"
+    }
+  </script>
 </header>
