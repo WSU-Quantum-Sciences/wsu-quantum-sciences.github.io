@@ -1,5 +1,5 @@
 <header class="site-header">
-  <h3 class="site-title">
+  <h3 class="site-title" id="HeaderTitle">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>
   <nav class="menu-list" id="DesktopHeader">
@@ -42,6 +42,7 @@
     }
     else
     {
+      document.getElementById("HeaderTitle").style.float = "left" 
       document.getElementById("DesktopHeader").style.display = "block"
       document.getElementById("MobileHeader").style.display = "none"
     }
