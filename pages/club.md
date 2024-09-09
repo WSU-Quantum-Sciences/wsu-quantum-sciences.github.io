@@ -8,7 +8,11 @@ permalink: /club
 This club is dedicated to exploring sciences that involve quantum mechanics with an emphasis on quantum computing. It can be found on [Engage](https://wright.campuslabs.com/engage/organization/wsuquantum).
 
 ## Meetings
-The club meetings start September 3rd, 2024. They will occur in Russ 146 every other Tuesday from 4:15pm to 5pm. If you wish to attend, please RSVP to the meetings on Engage or simply show up.
+If you wish to attend a meeting, please RSVP to the event you wish to attend on [Engage](https://wright.campuslabs.com/engage/organization/wsuquantum/events) or simply show up. The club meetings are not recorded, but slides are available here after each session.
+</br></br>
+Location: Russ 146 
+Time: 4-4:45pm
+</br>
 
 - [September 3rd](https://wright.campuslabs.com/engage/event/10273676): [Slides](https://raidermailwright-my.sharepoint.com/:p:/g/personal/groeger_2_wright_edu/EQOdpAg7OndNp7uw2EaAn7wBMcaf9ozBT0Xu8fb5CbmAQQ?e=sY3HVq)
 - [September 17th](https://wright.campuslabs.com/engage/event/10273677)
