@@ -17,6 +17,6 @@ Online attendance is available via [WebEx](https://wright.webex.com/wright/j.php
 - [September    17th](https://wright.campuslabs.com/engage/event/10273677): [Slides](https://raidermailwright-my.sharepoint.com/:p:/g/personal/groeger_2_wright_edu/EYGdED6wQlFArDAAPueNOk0BT9MwHPjumJQH4JDRwPJGOw?e=o90TOf)
 - [October      1st](https://wright.campuslabs.com/engage/event/10273678): [Slides](https://raidermailwright-my.sharepoint.com/:p:/g/personal/groeger_2_wright_edu/EQuETrLFrAdCgcHClvJ6aJkBvmlCvKBGnw5KUIJEgfDQHw?e=abz83G)
 - [October      15th](https://wright.campuslabs.com/engage/event/10273679): [Slides](https://raidermailwright-my.sharepoint.com/:p:/g/personal/groeger_2_wright_edu/EY0bAQqWQIhDgASwwcWXIlsBHgnuOUB46cbvRSFT34734Q?e=yK7fQv)
-- [October      29th](https://wright.campuslabs.com/engage/event/10273680)
-- [November     12th](https://wright.campuslabs.com/engage/event/10273681)
-- [November     26th](https://wright.campuslabs.com/engage/event/10273682)
+- [October      29th](https://wright.campuslabs.com/engage/event/10273680): [Slides](https://raidermailwright-my.sharepoint.com/:p:/g/personal/groeger_2_wright_edu/EeLlhlP_OHNNp-amQ7nv-J8BXpBrCt9nMxEId5thbpXeBw?e=TaeZ9m)
+- [November     12th](https://wright.campuslabs.com/engage/event/10273681): Canceled
+- [November     26th](https://wright.campuslabs.com/engage/event/10273682): Canceled
