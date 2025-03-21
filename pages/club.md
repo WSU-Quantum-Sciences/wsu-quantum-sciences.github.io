@@ -9,8 +9,8 @@ This club is dedicated to exploring sciences that involve quantum mechanics with
 
 ## Meetings
 If you wish to attend a meeting, please RSVP to the event you wish to attend on [Engage](https://wright.campuslabs.com/engage/organization/wsuquantum/events) or simply show up. The club meetings are recorded, and slides are available here after each session.<br /><br />
-Location: N/A <br />
-Time: N/A <br />
+Location: Joshi 399 <br />
+Time: 5pm to 6pm <br />
 Online attendance is available via [WebEx](https://wright.webex.com/wright/j.php?MTID=m9fdb22584d57416bb50169f029b4fdf5), but to receive the password you must email [Alex Groeger](groeger.2@wright.edu)<br /> <!---Password is WSUQSF24-->
 
 ## Past Meetings
